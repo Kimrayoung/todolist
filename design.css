@@ -1,0 +1,30 @@
+body{
+    background: ivory;
+    margin:0px;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+hr{
+    margin-bottom: 0px;
+}
+#name{
+    text-align: center;
+    color:lightskyblue;
+    height:50px;
+}
+
+.do{
+    text-decoration-line:line-through;
+}
+.notdo{
+    text-decoration-line: none;
+}
